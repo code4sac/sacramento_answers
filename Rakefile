@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Honoluluanswers::Application.load_tasks
+SacramentoAnswers::Application.load_tasks
